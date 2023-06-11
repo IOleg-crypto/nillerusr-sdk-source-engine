@@ -39,8 +39,10 @@ This project is using waf buildsystem. If you have waf-related questions look ht
 # How to Build?
 - [Building instructions(EN)](https://github.com/nillerusr/source-engine/wiki/Source-Engine-(EN))
 - [Building instructions(RU)](https://github.com/nillerusr/source-engine/wiki/Source-Engine-(RU))
-
-# Support me
+# About Waf
+- [If you don`t know anything about waf](https://github.com/fgriberi/cpp-waf-environment)
+- [Example of waf](https://waf.io/apidocs/tutorial.html)
+# Support Nillerusr
 BTC: `bc1qnjq92jj9uqjtafcx2zvnwd48q89hgtd6w8a6na`
 
 ETH: `0x5d0D561146Ed758D266E59B56e85Af0b03ABAF46`
